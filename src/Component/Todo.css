@@ -1,0 +1,32 @@
+
+.size{
+    width: 28vw;
+    margin-top: 8rem;
+}
+.center-main{
+    width: 25vw;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center{
+    width: 18vw;
+    height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:2px solid silver ;
+}
+.btn{
+    width: 12vw;
+}
+.show{
+    margin-top: 600px;
+    width: 25vw;
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:2px solid silver ;
+}
